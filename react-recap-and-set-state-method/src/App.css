@@ -37,40 +37,20 @@
     }
 }
 
-
-/* .container {
-    background-color: antiquewhite;
-    color: #333;
-    padding: 20px;
-    border-radius: 20px;
-} */
-
-.container {
-    display: flex;
-    justify-content: center;
-}
-
-.person {
-    background-color: #222;
-    border-radius: 15px;
-    width: 75%;
-    padding: 20px;
-    color: aliceblue;
-    margin: 20px;
-}
-
-.friend-details {
-    width: 50%;
-    background-color: palevioletred;
-    color: #222;
-    margin: 25px;
-    border-radius: 5px;
-}
-
-.digital-devices {
+.product {
     width: 60%;
-    background-color: rgb(64, 207, 64);
+    background-color: #80f0c7;
     color: #222;
-    margin: 25px;
     border-radius: 5px;
+}
+
+.counter {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.details {
+    background-color: lavenderblush;
+    padding: 22px;
+    margin: 20px;
 }
